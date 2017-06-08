@@ -1,4 +1,4 @@
-#DOM Katas
+# DOM Katas
 
 The purpose of this repo is to build a collection of small, self-contained challenges exploring the connection between JS, CSS and the DOM. 
 
