@@ -18,6 +18,7 @@ A second version supplements this with visual mockups, as if the graphical conte
 
 - modal pop up box(es)
 - contact card for email or phone client
+- On hover, transition in content on div
 
 
 ## Contributors
